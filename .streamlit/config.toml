@@ -1,0 +1,11 @@
+[theme]
+primaryColor="#74a2cb"
+backgroundColor="#172846"
+secoundaryBackgroundColor="#203353"
+textColor="#4a75a0"
+font="Sans Serif"
+
+
+[client]
+showErrorDetails = false
+toolbarMode ="minimal"
